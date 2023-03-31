@@ -53,7 +53,7 @@ parentDiv.replaceChild(sp1, sp2);
 
 // 结果：
 // <div>
-//   <span id="newSpan">新的 span 元素的内容.</span>
+//   <span id="newSpan">新的 span 元素的内容。</span>
 // </div>
 ```
 
